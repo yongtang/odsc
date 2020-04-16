@@ -1,4 +1,4 @@
-## ODSC East 2020
+## [ODSC East 2020] Data, I/O, and TensorFlow: Building A Reliable Machine Learning Data Pipeline
 
 Tutotials with Google Colab:
 
@@ -7,3 +7,7 @@ Tutotials with Google Colab:
 - [Columnar Data and CSV Dataset](https://colab.research.google.com/github/yongtang/demo/blob/master/ODSC2020Boston/deep.ipynb)
 - [Database SQL Query as Input](https://colab.research.google.com/github/yongtang/demo/blob/master/ODSC2020Boston/postgresql.ipynb)
 
+Reference for Streaming Data with Apache Kafka
+- [TensorFlow I/O GitHub](https://github.com/tensorflow/io)
+- [TensorFlow I/O Documentation](https://www.tensorflow.org/io)
+- [Streaming Machine Learning with Tiered Storage and Without a Data Lake](https://www.confluent.io/blog/streaming-machine-learning-with-tiered-storage/)
