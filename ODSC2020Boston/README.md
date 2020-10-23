@@ -1,4 +1,4 @@
-## AI+ [Data, I/O, and TensorFlow: Building A Reliable Machine Learning Data Pipeline]
+## [ODSC East 2020] Data, I/O, and TensorFlow: Building A Reliable Machine Learning Data Pipeline
 
 Tutotials with Google Colab:
 
