@@ -2,12 +2,12 @@
 
 ### 1. Introduction of TensorFlow and Keras
 
-- Model building with Keras in simple steps
+- [Model building with Keras in simple steps](https://colab.research.google.com/github/yongtang/demo/blob/master/ODSC2022Boston/simple.ipynb)
 
 ### 2. Data pipeline in TensorFlow
 
-- Understanding the data pipeline
-- Columnar dataset processing
+- [Understanding the data pipeline](https://colab.research.google.com/github/yongtang/demo/blob/master/ODSC2022Boston/dataset.ipynb)
+- [Columnar dataset processing](https://colab.research.google.com/github/yongtang/demo/blob/master/ODSC2022Boston/columnar.ipynb)
 
 ### 3. Deploy machine learning models in production
 
