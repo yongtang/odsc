@@ -1,4 +1,4 @@
-## Tutorial: Building and Deploying Machine Learning Models with TensorFlow and Keras
+## [ODSC East 2022] Tutorial: Building and Deploying Machine Learning Models with TensorFlow and Keras
 
 ### 1. Introduction of TensorFlow and Keras
 
