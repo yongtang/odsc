@@ -11,7 +11,7 @@
 
 ### 3. Deploy machine learning models in production
 
-- Bridge TensorFlow and cloud data services
+- [Tutorial 4][Bridge TensorFlow, database and cloud data services](https://colab.research.google.com/github/yongtang/demo/blob/master/ODSC2022Boston/postgresql.ipynb)
 - Streaming data in production with TensorFlow and Kafka
 
 ### Reference for Streaming Data with Apache Kafka
