@@ -11,7 +11,7 @@
 
 ### 3. Deploy machine learning models in production
 
-- [Tutorial 4] Bridge TensorFlow and cloud data services
+- Bridge TensorFlow and cloud data services
 - Streaming data in production with TensorFlow and Kafka
 
 ### Reference for Streaming Data with Apache Kafka
